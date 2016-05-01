@@ -516,7 +516,7 @@ footer p span {
 @media only screen and (max-width : 900px) {
 	.nav-icon {
 		display: inline-block;
-		margin-right: 20px;
+		margin-right: 7px;
 		padding: 0 13px;
 		color: #fff;
 		font: 30px/33px 'Noto Sans', sans-serif;
@@ -524,6 +524,10 @@ footer p span {
 		text-transform: uppercase;
 		background-color: #e2827e;
 		border-radius: 5px;
+	}
+	
+	.main-menu {
+		margin-right: 0
 	}
 
 	.main-menu ul {
